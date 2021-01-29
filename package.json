@@ -1,0 +1,20 @@
+{
+  "name": "rfid-reader",
+  "version": "1.0.0",
+  "description": "RFID tag reader",
+  "main": "index.js",
+  "author": "Shujaat bin Tariq",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shujaattariq/rfid-reader-serial"
+  },
+  "dependencies": {
+    "binary-parser": "^1.7.0",
+    "serialport": "^9.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "UNLICENSED"
+}
